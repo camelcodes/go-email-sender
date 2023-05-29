@@ -1,0 +1,4 @@
+smtpHost: mail.yourmailserver.com
+smtpPort: 465
+smtpEmail: you@yourmailserver.com
+smtpPassword: yourpassword
